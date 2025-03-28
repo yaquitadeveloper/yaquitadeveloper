@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Raquel
 
-Soy una desarrolladora con interés en mejorar mis habilidades en **JavaScript, Node.js y C++**, además de explorar tecnologías como **n8n y APIs**. Actualmente estoy trabajando en proyectos de desarrollo web y juegos en **HTML, CSS y JavaScript**, aplicando buenas prácticas de código limpio y estructuración eficiente.
+Soy una desarrolladora con interés en mejorar mis habilidades en **JavaScript, Node.js y C++**, además de explorar tecnologías como **n8n y APIs**. Actualmente estoy en proyectos de desarrollo web y juegos en **HTML, CSS y JavaScript**, aplicando buenas prácticas de código limpio y estructuración eficiente.
 
 ---
 
