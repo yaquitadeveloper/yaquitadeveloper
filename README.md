@@ -36,4 +36,4 @@ Soy una desarrolladora con interés en mejorar mis habilidades en **JavaScript, 
 
 ---
 
-<img src="https://raw.githubusercontent.com/yaquitadeveloper/yaquitadeveloper/output/snake.svg" alt="Snake animation" />
+
