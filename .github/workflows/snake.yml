@@ -16,9 +16,10 @@ jobs:
           svg_out_path: dist/snake.svg
 
       - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  uses: crazy-max/ghaction-github-pages@v3
+  with:
+    target_branch: output
+    build_dir: dist
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
