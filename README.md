@@ -22,8 +22,10 @@ Soy una desarrolladora con interés en mejorar mis habilidades en **JavaScript, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" style="margin-right: 10px;" alt="C++" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="28" style="margin-right: 10px;" alt="Astro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="28" style="margin-right: 10px;" alt="Solidity" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="28" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="28" style="margin-right: 10px;" alt="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" alt="Figma" />
 </div>
+
 
 
 
