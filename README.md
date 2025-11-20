@@ -1,6 +1,6 @@
 ## 👋 Hola, soy RAquEL
 
-Desarrollo con interés en mejorar mis habilidades en **Typescript, Node.js y Figma**, además de explorar tecnologías como **n8n, APIs, MCP y Blockchain**. Actualmente estoy en proyectos de desarrollo web, Webhook y Agentes IA, aplicando buenas prácticas de código limpio y estructuración eficiente.
+Desarrollo con interés en mejorar mis habilidades en **Typescript, Node.js y Figma**, además de explorar tecnologías como **n8n, APIs, MCP y Redes Blockchain**. Actualmente estoy en proyectos de desarrollo web, Webhook y Tesnet Web3, capa L2 de la red de Etherium y Solana en la creacion de Smart Contract y Agentes IA para DEX, aplicando buenas prácticas de código limpio y estructuración eficiente.
 
 ---
 
