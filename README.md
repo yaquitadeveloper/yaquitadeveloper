@@ -1,6 +1,6 @@
-## 👋 Hola, soy Yaqui
+## 👋 Hola, soy RAquEL
 
-Soy una desarrolladora con interés en mejorar mis habilidades en **JavaScript, Node.js y Figma**, además de explorar tecnologías como **n8n, APIs y MCP**. Actualmente estoy en proyectos de desarrollo web, apis y Agentes IA, aplicando buenas prácticas de código limpio y estructuración eficiente.
+Desarrollo con interés en mejorar mis habilidades en **Typescript, Node.js y Figma**, además de explorar tecnologías como **n8n, APIs, MCP y Blockchain**. Actualmente estoy en proyectos de desarrollo web, Webhook y Agentes IA, aplicando buenas prácticas de código limpio y estructuración eficiente.
 
 ---
 
