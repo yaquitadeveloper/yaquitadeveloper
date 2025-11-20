@@ -19,7 +19,6 @@ Desarrollo con interés en mejorar mis habilidades en **Typescript, Node.js y Fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" style="margin-right: 10px;" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" style="margin-right: 10px;" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" style="margin-right: 10px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" style="margin-right: 10px;" alt="C++" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="28" style="margin-right: 10px;" alt="Astro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="28" style="margin-right: 10px;" alt="Solidity" />
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="28" style="margin-right: 10px;" alt="n8n" />
